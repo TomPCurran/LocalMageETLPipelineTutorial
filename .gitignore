@@ -216,3 +216,26 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+.vscode/
+.agents/
+.cursor/
+.cursorrules/
+.env
+.env.local
+.claude/
+
+# Secrets
+.env
+
+# Mage internal tracking & local database cache
+*mage_transforms/
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
