@@ -115,6 +115,6 @@ docker compose down -v
 
 ## Medium article series
 
-- **Part 1**: Containerizing Infrastructure with Docker and PostgreSQL — _link coming_
+- **Part 1**: [Part 1: Setting up Mage.ai, Postgres, and Docker](https://medium.com/@tcurran4589/a-data-scientists-guide-to-building-your-own-data-stack-64eadace3fc1)
 - **Part 2**: Orchestrating the Ingestion Pipeline with Mage.ai — _link coming_
 - **Part 3**: Data Persistence, Upserts, and Automation — _link coming_
